@@ -1,0 +1,77 @@
+.workId{
+	top:0;
+	left:0;
+	font-size:.1em;
+}
+
+.workerWrap{
+	background-color:#F7F7F7;
+	height:200px;
+	padding:10px;
+	/*border:solid 1px black;*/
+}
+
+.workHeading{
+	text-transform: uppercase;
+	font-size:.8em;
+	color:black;
+	/*text-align:center;*/
+}
+
+.workDescription{
+	font-size:.8em;
+	/*text-align:center;*/
+}
+
+.workerId{
+	position:absolute;
+	font-size:.5em;
+	top:100px;
+	right:0;
+	padding-right:20px;
+	margin-top:70px;
+	/*float:right;*/
+	/*float:right;*/
+}
+
+.workerName{
+	position:absolute;
+	font-size:.8em;
+	right:0;
+	padding-right:20px;
+	font-weight:bold;
+}
+
+.workerEmail{
+	position:absolute;
+	font-size:.5em;
+	right:0;
+	padding-right:20px;
+	margin-top:20px;
+	/*float:right;*/
+}
+
+.workerCompany{
+	position:absolute;
+	font-size:.6em;
+	right:0;
+	padding-right:20px;
+	margin-top:30px;
+	/*float:right;*/
+}
+
+.workerPhoto{
+	position:absolute;
+	width:180px;
+	height:180px;
+	border-radius:100%;
+}
+
+.workDeadLine{
+	position:absolute;
+	font-size:.2em;
+	bottom:0;
+	right:0;
+	padding-right:20px;
+	/*float:right;*/
+}

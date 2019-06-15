@@ -1,0 +1,23 @@
+#logo{
+  /*position:relative;*/
+  display:block;
+  float:right;
+  /*left: 0;*/
+  /*right: 0;*/
+  margin-top:5px;
+	/*width:800px;*/
+	height:150px;
+}
+
+#banner{
+	  display:block;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+	width:800px;
+	text-align:center;
+	background-color:#3F3F3F;
+	height:150px;
+	color:white;
+}
